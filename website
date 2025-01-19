@@ -1,0 +1,20 @@
+<head>......</head>
+
+ <body>
+    <div style="background-color: blue;">
+        <h3>this is blue section</h3>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Aliquid numquam pariatur impedit corporis?
+            Quo repellendus sequi architecto porro tenetur excepturi, 
+            veritatis dolore nihil nesciunt facilis suscipit voluptate eaque cumque odit!</p>
+    </div>
+
+    <div style="background-color: brown;">
+        <h3> this is brown section</h3>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Vitae rem harum, est distinctio beatae accusantium deleniti,
+            voluptatum voluptatem possimus excepturi laborum sapiente ab illum neque libero.
+            Dolorum similique atque dicta?</p>
+    </div>
+ </body>
+   
